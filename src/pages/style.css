@@ -1,0 +1,31 @@
+.btn {
+    font-family: Agrandir;
+    color: white;
+    background-color: #0f4c81;
+    width: fit-content;
+    justify-content: center;
+    text-align: center;
+}
+.container {
+    padding-bottom: 5%;
+}
+.text-box {
+    width: 100%;
+    padding: 5%;
+}
+.card-title {
+    font-family: Agrandir;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: black;
+}
+.card-text {
+    padding-left: 5%;
+    padding-right: 5%;
+    color: black;
+}
+.profile-picture {
+    width: 550px;
+    height: 445px;
+    object-fit: cover;
+}
