@@ -1,0 +1,72 @@
+ol, ul {
+    list-style: none;
+}
+ul {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+a {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    color: #fff;
+}
+.footer {
+    height: 20%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    background-color: #0e0e0e;
+    padding: 15%;
+}
+.footer-title {
+    font-family: Agrandir;
+    color: #fff;
+}
+.links {
+    padding-top: 5%;
+    font-family: sans-serif;
+    color: #fff;
+}
+.circle {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    display: inline-block;
+}  
+.Logo-logo {
+    height: 30vmin;
+    pointer-events: none;
+    justify-content: right;
+}
+  
+@media (prefers-reduced-motion: no-preference) {
+    .Logo-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+}
+  
+@keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+}
+
+#gmail {
+    background-color: #D44638;
+}
+#linkedin {
+    background-color: #0072B1;
+}
+
+#github {
+    background-color: #6cc644;
+}
