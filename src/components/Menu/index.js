@@ -1,6 +1,5 @@
-import React, {Component} from 'react';
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import About from '../../pages/about';
+import React, { Component } from 'react';
+import { Link } from "react-router-dom";
 import './style.css';
 
 export default class Menu extends Component {
@@ -13,25 +12,35 @@ export default class Menu extends Component {
         const wrapper = this.wrapperRef.current;
         wrapper.classList.toggle('is-nav-open')
     }
-    
+
     render() {
         return (
-            <Router>
-                <section className="menu">
-                    <div ref={this.wrapperRef} className="wrapper">
-                        <div className="nav">
-                            <span className="menu_enter" type="menu-fold" onClick={() => this.handleClick()}> - Menu </span> 
-                            <div className="nav__body">
-                                <ul>
-                                    <li><a href={About}>About</a></li>
-                                    <li>Porfolio</li>
-                                    <li>Resume</li>
-                                </ul>
-                            </div>
+            <section className="menu">
+                <div ref={this.wrapperRef} className="wrapper">
+                    <div className="nav">
+                        <span className="menu_enter" type="menu-fold" onClick={() => this.handleClick()}> - Menu </span>
+                        <div className="nav__body">
+                            <ul>
+                                <li>
+                                    <Link to="/">
+                                        About
+                                    </Link>
+                                </li>
+                                <li>
+                                    <Link to="/portfolio">
+                                        Portfolio
+                                    </Link>
+                                </li>
+                                <li>
+                                    <Link to="/discover" >
+                                        Discover
+                                    </Link>
+                                </li>
+                            </ul>
                         </div>
                     </div>
-                </section>
-            </Router>
+                </div>
+            </section>
         );
     }
 }

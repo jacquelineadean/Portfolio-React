@@ -36,3 +36,11 @@
     height: 445px;
     object-fit: cover;
 }
+.page-header {
+    font-family: Moret-Book;
+    color: #0f4c81;
+    font-size: 18.05556vw;
+    font-weight: bold;
+    line-height: 84%;
+    letter-spacing: -.02em;
+}

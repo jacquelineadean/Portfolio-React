@@ -3,17 +3,16 @@ import Fade from 'react-reveal/Fade';
 import image from './FullSizeRender.jpeg'
 import './style.css';
 
-class Portfolio extends Component {
-
+class Discover extends Component {
     render() {
         return (
             <Fade>
                 <section className="container block">
-                    <h2 className="page-header">Projects</h2>
+                <h2 className="page-header">Discover</h2>
                 </section>
             </Fade>
         )
     }
-};
+}
 
-export default Portfolio;
+export default Discover;

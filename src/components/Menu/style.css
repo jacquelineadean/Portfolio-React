@@ -30,4 +30,7 @@
 }
 .nav__body {
     font-family: Agrandir;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
 }

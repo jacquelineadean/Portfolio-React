@@ -1,12 +1,14 @@
 import React, { Component } from 'react';
 import Fade from 'react-reveal/Fade';
-import image from './FullSizeRender.jpeg'
+import Header from '../components/Header';
+import image from './FullSizeRender.jpeg';
 import './style.css';
 
 class About extends Component {
     render() {
         return (
             <Fade>
+                <Header></Header>
                 <section className="container block">
                     <div className="row">
                         <div className="col-md-6">
