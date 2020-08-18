@@ -22,17 +22,17 @@ export default class Menu extends Component {
                         <div className="nav__body">
                             <ul>
                                 <li>
-                                    <Link to="/">
+                                    <Link to="/" className="link">
                                         About
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link to="/portfolio">
+                                    <Link to="/portfolio" className="link">
                                         Portfolio
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link to="/discover" >
+                                    <Link to="/discover" className="link">
                                         Discover
                                     </Link>
                                 </li>

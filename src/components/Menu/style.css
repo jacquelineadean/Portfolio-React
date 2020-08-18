@@ -27,6 +27,7 @@
     height: 100%;
     padding: 20px;
     border-right: 1px solid #ccc;
+    background-color: black;
 }
 .nav__body {
     font-family: Agrandir;
@@ -34,3 +35,7 @@
     font-weight: bold;
     text-decoration: none;
 }
+.link {
+    line-height: 20%;
+}
+
