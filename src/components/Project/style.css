@@ -1,5 +1,11 @@
-.
-.img {
+.btn {
+    padding: 20%;
+    margin: auto;
+}
+.card {
     padding: 10%;
-    justify-content: center;
+}
+.card-title {
+    text-align: center;
+    float: right;
 }
