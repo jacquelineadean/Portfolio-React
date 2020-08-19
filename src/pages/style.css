@@ -4,6 +4,7 @@
     justify-content: center;
     width: 100%;
     height: 100%;
+    padding: 5%;
 }
 .btn {
     font-family: Agrandir;
@@ -19,6 +20,7 @@
 .text-box {
     width: 100%;
     padding: 5%;
+    padding-left: 20%;
 }
 .card-title {
     font-family: Agrandir;
@@ -33,8 +35,9 @@
 }
 .profile-picture {
     width: 550px;
-    height: 445px;
+    height: 600px;
     object-fit: cover;
+    padding-right: 20%;
 }
 .page-header {
     font-family: Moret-Book;
@@ -43,4 +46,12 @@
     font-weight: bold;
     line-height: 84%;
     letter-spacing: -.02em;
+}
+.hero-image {
+    height: 50%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
