@@ -54,3 +54,6 @@
     background-size: cover;
     position: relative;
 }
+.jumbotron {
+    background-color: white;
+}
