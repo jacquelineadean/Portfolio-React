@@ -29,8 +29,13 @@
     border-right: 1px solid #ccc;
     background-color: black;
 }
-.nav__body {
+.nav__body { 
+    display: flex;
+    z-index: 995;
+    top: 3.33333vw;
+    right: 3.47222vw;
     font-family: Agrandir;
+    text-align: left;
     color: black;
     font-weight: bold;
     text-decoration: none;

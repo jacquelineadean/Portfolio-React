@@ -15,12 +15,12 @@ class Project extends Component {
                 <div className="row">
                     <div className="col-md-2"></div>
                     <div className="card col-md-4 border-4">
-                        <img className="card-img-top" src={Budget} alt="Project" ></img>
+                        <img className="card-img-top" src={Covid} alt="Project" ></img>
                             <div className="card-body">
-                                <h5 className="card-title">Budget Tracker</h5>
-                                <p className="card-text">Full-Stack Budget Tracking Application</p>
-                                <a href="https://github.com/jacquelineadean/BudgetTracker" className="btn" target="_blank"><i className="fa fa-github fa-lg" aria-hidden="true"></i></a>
-                                <a href="https://offlinebudgettrackerapp.herokuapp.com/" className="btn" target="_blank"><i className="fa fa-desktop fa-lg" aria-hidden="true"></i></a>
+                                <h5 className="card-title">Covid Corner</h5>
+                                <p className="card-text">Full-Stack Application for Covid-19 Visualization and Awareness</p>
+                                <a href="https://github.com/Jaesenix/CovidCorner" className="btn" target="_blank"><i className="fa fa-github fa-lg" aria-hidden="true"></i></a>
+                                <a href="https://covidcorner.herokuapp.com/" className="btn" target="_blank"><i className="fa fa-desktop fa-lg" aria-hidden="true"></i></a>
                             </div>
                     </div>
                     <br></br>
@@ -61,12 +61,12 @@ class Project extends Component {
                 <div className="row">
                     <div className="col-md-2"></div>
                     <div className="card col-md-4 border-4">
-                        <img className="card-img-top" src={Covid} alt="Project" ></img>
+                        <img className="card-img-top" src={Budget} alt="Project" ></img>
                             <div className="card-body">
-                                <h5 className="card-title">Covid Corner</h5>
-                                <p className="card-text">Full-Stack Application for Covid-19 Visualization and Awareness</p>
-                                <a href="#" className="btn" target="_blank"><i className="fa fa-github fa-lg" aria-hidden="true"></i></a>
-                                <a href="#" className="btn" target="_blank"><i className="fa fa-desktop fa-lg" aria-hidden="true"></i></a>
+                                <h5 className="card-title">Budget Tracker</h5>
+                                <p className="card-text">Full-Stack Budget Tracking Application</p>
+                                <a href="https://github.com/jacquelineadean/BudgetTracker" className="btn" target="_blank"><i className="fa fa-github fa-lg" aria-hidden="true"></i></a>
+                                <a href="https://offlinebudgettrackerapp.herokuapp.com/" className="btn" target="_blank"><i className="fa fa-desktop fa-lg" aria-hidden="true"></i></a>
                             </div>
                     </div>
                     <br></br>

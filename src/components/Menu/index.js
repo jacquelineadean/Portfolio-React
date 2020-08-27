@@ -19,7 +19,7 @@ export default class Menu extends Component {
                 <div ref={this.wrapperRef} className="wrapper">
                     <div className="nav">
                         <span className="menu_enter" type="menu-fold" onClick={() => this.handleClick()}> - Menu </span>
-                        <div className="nav__body">
+                        <span className="nav__body">
                             <ul>
                                 <li>
                                     <Link to="/" className="link">
@@ -37,7 +37,7 @@ export default class Menu extends Component {
                                     </Link>
                                 </li>
                             </ul>
-                        </div>
+                        </span>
                     </div>
                 </div>
             </section>
