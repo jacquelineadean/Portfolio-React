@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Portfolio-React/static/css/main.0a8c02e6.chunk.css",
-    "main.js": "/Portfolio-React/static/js/main.b968a79a.chunk.js",
-    "main.js.map": "/Portfolio-React/static/js/main.b968a79a.chunk.js.map",
+    "main.css": "/Portfolio-React/static/css/main.c05fefce.chunk.css",
+    "main.js": "/Portfolio-React/static/js/main.ae914128.chunk.js",
+    "main.js.map": "/Portfolio-React/static/js/main.ae914128.chunk.js.map",
     "runtime-main.js": "/Portfolio-React/static/js/runtime-main.f2ca122a.js",
     "runtime-main.js.map": "/Portfolio-React/static/js/runtime-main.f2ca122a.js.map",
-    "static/js/2.ba1d5522.chunk.js": "/Portfolio-React/static/js/2.ba1d5522.chunk.js",
-    "static/js/2.ba1d5522.chunk.js.map": "/Portfolio-React/static/js/2.ba1d5522.chunk.js.map",
+    "static/js/2.85c12d5d.chunk.js": "/Portfolio-React/static/js/2.85c12d5d.chunk.js",
+    "static/js/2.85c12d5d.chunk.js.map": "/Portfolio-React/static/js/2.85c12d5d.chunk.js.map",
     "index.html": "/Portfolio-React/index.html",
-    "precache-manifest.0c42619e6824b5a386b0aea80658810f.js": "/Portfolio-React/precache-manifest.0c42619e6824b5a386b0aea80658810f.js",
+    "precache-manifest.406e8b4ebbb1daf3b002c4dce97107a2.js": "/Portfolio-React/precache-manifest.406e8b4ebbb1daf3b002c4dce97107a2.js",
     "service-worker.js": "/Portfolio-React/service-worker.js",
-    "static/css/main.0a8c02e6.chunk.css.map": "/Portfolio-React/static/css/main.0a8c02e6.chunk.css.map",
-    "static/js/2.ba1d5522.chunk.js.LICENSE.txt": "/Portfolio-React/static/js/2.ba1d5522.chunk.js.LICENSE.txt",
+    "static/css/main.c05fefce.chunk.css.map": "/Portfolio-React/static/css/main.c05fefce.chunk.css.map",
+    "static/js/2.85c12d5d.chunk.js.LICENSE.txt": "/Portfolio-React/static/js/2.85c12d5d.chunk.js.LICENSE.txt",
     "static/media/Budget.png": "/Portfolio-React/static/media/Budget.42b9b0c8.png",
     "static/media/FitFeed_Brand.png": "/Portfolio-React/static/media/FitFeed_Brand.d1cc15ea.png",
     "static/media/FullSizeRender.jpeg": "/Portfolio-React/static/media/FullSizeRender.9e64659e.jpeg",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f2ca122a.js",
-    "static/js/2.ba1d5522.chunk.js",
-    "static/css/main.0a8c02e6.chunk.css",
-    "static/js/main.b968a79a.chunk.js"
+    "static/js/2.85c12d5d.chunk.js",
+    "static/css/main.c05fefce.chunk.css",
+    "static/js/main.ae914128.chunk.js"
   ]
 }
