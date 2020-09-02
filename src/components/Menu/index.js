@@ -31,11 +31,11 @@ export default class Menu extends Component {
                                         Portfolio
                                     </Link>
                                 </li>
-                                <li>
+                                {/* <li>
                                     <Link to="/discover" className="link">
                                         Discover
                                     </Link>
-                                </li>
+                                </li> */}
                             </ul>
                         </span>
                     </div>
