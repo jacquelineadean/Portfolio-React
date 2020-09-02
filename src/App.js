@@ -1,5 +1,6 @@
 import React from 'react';
-import Menu from './components/Menu';
+// import Menu from './components/Menu';
+import Navbar from './components/Nav';
 import Footer from './components/Footer';
 import About from './pages/about';
 import Portfolio from './pages/portfolio';
@@ -10,7 +11,8 @@ function App() {
   return (
       <Router>
         <div>
-          <Menu/>
+          {/* <Menu/> */}
+          <Navbar />
             <Switch>
               <Route exact path="/" component={About} />
               <Route exact path="/about" component={About} />

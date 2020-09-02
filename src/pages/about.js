@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from "react-router-dom";
 import Fade from 'react-reveal/Fade';
 import Header from '../components/Header';
 import image from './FullSizeRender.jpeg';
@@ -28,7 +29,12 @@ class About extends Component {
                                     When I'm not programming, I try to get away from the screen and get outside. My favorite activities all involve the great outdoors. Whether it's going for a run, hiking, kayaking, or just
                                     having a picnic in the park, I am happiest when I'm getting fresh air in the sun.
                                 </p>
-                                {/* <a data-toggle="modal" data-target="#ModalPDF" className="btn">Resume</a> */}
+                                <button className="btn resume">
+                                    <a href="https://drive.google.com/file/d/11cLB0H9OLoVNq71mziWRvedWjWUrkXYa/view?usp=sharing" target="_blank" className="btn">Resume</a>
+                                </button>
+                                <button className="btn portfolio">
+                                    <Link to="/portfolio" className="btn">Portfolio</Link>
+                                </button>
                             </div>
                         </div>
                     </div>
