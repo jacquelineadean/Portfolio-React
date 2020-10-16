@@ -45,7 +45,7 @@ button {
 }
 .profile-picture {
     width: 600px;
-    height: 600px;
+    height: 550px;
     object-fit: cover;
     padding-right: 20%;
 }

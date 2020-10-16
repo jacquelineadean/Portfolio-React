@@ -1,9 +1,10 @@
 .btn {
     padding: 20%;
-    margin: auto;
+    margin: 2%;
 }
 .card {
-    padding: 10%;
+    /* padding: 10%;
+    border: 10%; */
 }
 .card-title {
     text-align: center;

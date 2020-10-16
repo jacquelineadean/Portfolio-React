@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 import { Link } from "react-router-dom";
 import Fade from 'react-reveal/Fade';
 import Header from '../components/Header';
-import image from './FullSizeRender.jpeg';
+// import image from './FullSizeRender.jpeg';
+import image from '../assets/self.JPG';
 import './style.css';
 
 class About extends Component {
@@ -12,12 +13,12 @@ class About extends Component {
                 <Header></Header>
                 <section className="container block">
                     <div className="row">
-                        <div className="col-md-6">
+                        <div className="col-md-5">
                             <div className="card">
                                 <img src={image} alt="profile" className="card-img profile-picture"/>
                             </div>
                         </div>
-                        <div className="col-md-6">
+                        <div className="col-md-7">
                             <div className="text-box">
                                 <h3 className="card-title">About</h3>
                                 <p className="card-text">
