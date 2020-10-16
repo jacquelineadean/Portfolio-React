@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import Budget from "./Budget.png";
-import FitFeed from "./FitFeed_Brand.png";
-import Workout from "./workout.png";
-import Cuisine from "./cuisine.jpeg";
-import Employee from "./employee.jpg";
-import Covid from "./covid.jpg";
+import Budget from "../../assets/Budget.png";
+import FitFeed from "../../assets/FitFeed_Brand.png";
+import Workout from "../../assets/workout.png";
+import Cuisine from "../../assets/cuisine.jpeg";
+import Employee from "../../assets/employee.jpg";
+import Covid from "../../assets/covid.jpg";
 
 class Project extends Component {
 
