@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/Portfolio-React/static/css/main.c05fefce.chunk.css",
-    "main.js": "/Portfolio-React/static/js/main.ae914128.chunk.js",
-    "main.js.map": "/Portfolio-React/static/js/main.ae914128.chunk.js.map",
+    "main.css": "/Portfolio-React/static/css/main.0d287da2.chunk.css",
+    "main.js": "/Portfolio-React/static/js/main.04dbcdff.chunk.js",
+    "main.js.map": "/Portfolio-React/static/js/main.04dbcdff.chunk.js.map",
     "runtime-main.js": "/Portfolio-React/static/js/runtime-main.f2ca122a.js",
     "runtime-main.js.map": "/Portfolio-React/static/js/runtime-main.f2ca122a.js.map",
     "static/js/2.85c12d5d.chunk.js": "/Portfolio-React/static/js/2.85c12d5d.chunk.js",
     "static/js/2.85c12d5d.chunk.js.map": "/Portfolio-React/static/js/2.85c12d5d.chunk.js.map",
     "index.html": "/Portfolio-React/index.html",
-    "precache-manifest.406e8b4ebbb1daf3b002c4dce97107a2.js": "/Portfolio-React/precache-manifest.406e8b4ebbb1daf3b002c4dce97107a2.js",
+    "precache-manifest.3b4008af3850502b736bd42ecd4ba8dc.js": "/Portfolio-React/precache-manifest.3b4008af3850502b736bd42ecd4ba8dc.js",
     "service-worker.js": "/Portfolio-React/service-worker.js",
-    "static/css/main.c05fefce.chunk.css.map": "/Portfolio-React/static/css/main.c05fefce.chunk.css.map",
+    "static/css/main.0d287da2.chunk.css.map": "/Portfolio-React/static/css/main.0d287da2.chunk.css.map",
     "static/js/2.85c12d5d.chunk.js.LICENSE.txt": "/Portfolio-React/static/js/2.85c12d5d.chunk.js.LICENSE.txt",
     "static/media/Budget.png": "/Portfolio-React/static/media/Budget.42b9b0c8.png",
     "static/media/FitFeed_Brand.png": "/Portfolio-React/static/media/FitFeed_Brand.d1cc15ea.png",
-    "static/media/FullSizeRender.jpeg": "/Portfolio-React/static/media/FullSizeRender.9e64659e.jpeg",
     "static/media/covid.jpg": "/Portfolio-React/static/media/covid.6d71fd99.jpg",
     "static/media/cuisine.jpeg": "/Portfolio-React/static/media/cuisine.d753c737.jpeg",
     "static/media/employee.jpg": "/Portfolio-React/static/media/employee.cd02591e.jpg",
     "static/media/logo.png": "/Portfolio-React/static/media/logo.a6add520.png",
+    "static/media/self.JPG": "/Portfolio-React/static/media/self.94c8e165.JPG",
     "static/media/workout.png": "/Portfolio-React/static/media/workout.6757d892.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f2ca122a.js",
     "static/js/2.85c12d5d.chunk.js",
-    "static/css/main.c05fefce.chunk.css",
-    "static/js/main.ae914128.chunk.js"
+    "static/css/main.0d287da2.chunk.css",
+    "static/js/main.04dbcdff.chunk.js"
   ]
 }
